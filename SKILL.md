@@ -1,13 +1,22 @@
 ---
-name: keynes-contrarian-investment
+name: skill-keynes-contrarian-investment
 description: >-
   凯恩斯长期预期与反共识投资研究：在 PandaData 数据基础上，区分现实基本面、市场共识代理、价格隐含预期和企业性投资，识别过度乐观/过度悲观及价值陷阱。当用户说“凯恩斯投资逻辑”“反共识选股”“长期预期分析”“市场预期差”“价值陷阱排查”“第二层思维研究”时触发。
 metadata:
+  organization: QuantSkills
+  organization_url: https://github.com/quantskills
+  repository: skill-keynes-contrarian-investment
+  repository_url: https://github.com/quantskills/skill-keynes-contrarian-investment
+  project_type: skill
+  collection: contrarian-investing
   type: quant
-  version: 1.0.0
+  version: 1.0.1
+  license: GPL-3.0-only
 ---
 
 # 凯恩斯长期预期与反共识投资
+
+> QuantSkills 社区项目，由 GitHub 用户 `cikeqi` 维护。项目尚未经过独立审核，不代表 QuantSkills 官方认证，也不承诺收益或生产环境适用性。
 
 ## 定位
 
