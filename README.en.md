@@ -156,3 +156,6 @@ python3.11 -m pytest tests -q
 - Maintainer: GitHub user `cikeqi`
 - Repository: `quantskills/skill-keynes-contrarian-investment`
 - License: [GNU GPL v3.0 only](LICENSE) (`GPL-3.0-only`)
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
