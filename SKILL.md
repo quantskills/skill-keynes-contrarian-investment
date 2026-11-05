@@ -230,3 +230,7 @@ python3.11 $SKILL/scripts/expectation_contrarian.py \
 研究摘要 → 凯恩斯理论框架 → 长期预期与现实基本面 → 价格隐含预期与估值 → 市场共识代理 → 企业性投资与投机性预测 → 反共识评分 → 否决门 → 催化剂与证伪条件 → 数据限制 → PandaData 溯源 → 免责声明。
 
 > 本报告基于 PandaData 公开数据与规则化分析生成，仅供研究参考，不构成任何投资建议。反共识判断可能长期不被市场验证，低估值也可能对应永久性资本损失。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
